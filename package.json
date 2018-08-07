@@ -1,0 +1,17 @@
+{
+  "name": "akbproject_v1",
+  "version": "1.0.0",
+  "description": "akb",
+  "main": "webpack.mix.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rendi, Irvan & Ali",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.7.2"
+  }
+}
